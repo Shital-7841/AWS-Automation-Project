@@ -1,0 +1,2 @@
+My AWS Automation Project
+Created using Python, AWS S3 and Lambda.
